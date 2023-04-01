@@ -1,0 +1,56 @@
+D:\OU university\ltgd\QuanLyChiTieu\bin\Debug\QuanLyChiTieu.exe.config
+D:\OU university\ltgd\QuanLyChiTieu\bin\Debug\QuanLyChiTieu.exe
+D:\OU university\ltgd\QuanLyChiTieu\bin\Debug\QuanLyChiTieu.pdb
+D:\OU university\ltgd\QuanLyChiTieu\obj\Debug\QuanLyChiTieu.csproj.AssemblyReference.cache
+D:\OU university\ltgd\QuanLyChiTieu\obj\Debug\QuanLyChiTieu.FrmLogin.resources
+D:\OU university\ltgd\QuanLyChiTieu\obj\Debug\QuanLyChiTieu.FrmMain.resources
+D:\OU university\ltgd\QuanLyChiTieu\obj\Debug\QuanLyChiTieu.Properties.Resources.resources
+D:\OU university\ltgd\QuanLyChiTieu\obj\Debug\QuanLyChiTieu.csproj.GenerateResource.cache
+D:\OU university\ltgd\QuanLyChiTieu\obj\Debug\QuanLyChiTieu.csproj.CoreCompileInputs.cache
+D:\OU university\ltgd\QuanLyChiTieu\obj\Debug\QuanLyChiTieu.exe
+D:\OU university\ltgd\QuanLyChiTieu\obj\Debug\QuanLyChiTieu.pdb
+D:\OU university\ltgd\QuanLyChiTieu\obj\Debug\QuanLyChiTieu.UserControlBlank.resources
+D:\OU university\ltgd\QuanLyChiTieu\obj\Debug\QuanLyChiTieu.FrmLich.resources
+D:\OU university\ltgd\QuanLyChiTieu\obj\Debug\QuanLyChiTieu.UserControlDays.resources
+D:\OU university\ltgd\QuanLyChiTieu\obj\Debug\QuanLyChiTieu.FrmBaoCao.resources
+D:\OU university\ltgd\QuanLyChiTieu\obj\Debug\QuanLyChiTieu.UserControlChi.resources
+D:\OU university\ltgd\QuanLyChiTieu\obj\Debug\QuanLyChiTieu.UserControlThu.resources
+D:\OU university\ltgd\QuanLyChiTieu\obj\Debug\QuanLyChiTieu.FrmNhap.resources
+C:\Users\ACER\Desktop\SoChiTieu\quanlychitieu\bin\Debug\QuanLyChiTieu.exe.config
+C:\Users\ACER\Desktop\SoChiTieu\quanlychitieu\bin\Debug\QuanLyChiTieu.exe
+C:\Users\ACER\Desktop\SoChiTieu\quanlychitieu\bin\Debug\QuanLyChiTieu.pdb
+C:\Users\ACER\Desktop\SoChiTieu\quanlychitieu\obj\Debug\QuanLyChiTieu.csproj.AssemblyReference.cache
+C:\Users\ACER\Desktop\SoChiTieu\quanlychitieu\obj\Debug\QuanLyChiTieu.csproj.SuggestedBindingRedirects.cache
+C:\Users\ACER\Desktop\SoChiTieu\quanlychitieu\obj\Debug\QuanLyChiTieu.FrmNhap.resources
+C:\Users\ACER\Desktop\SoChiTieu\quanlychitieu\obj\Debug\QuanLyChiTieu.FrmBaoCao.resources
+C:\Users\ACER\Desktop\SoChiTieu\quanlychitieu\obj\Debug\QuanLyChiTieu.FrmLich.resources
+C:\Users\ACER\Desktop\SoChiTieu\quanlychitieu\obj\Debug\QuanLyChiTieu.FrmLogin.resources
+C:\Users\ACER\Desktop\SoChiTieu\quanlychitieu\obj\Debug\QuanLyChiTieu.FrmMain.resources
+C:\Users\ACER\Desktop\SoChiTieu\quanlychitieu\obj\Debug\QuanLyChiTieu.Properties.Resources.resources
+C:\Users\ACER\Desktop\SoChiTieu\quanlychitieu\obj\Debug\QuanLyChiTieu.UserControlBlank.resources
+C:\Users\ACER\Desktop\SoChiTieu\quanlychitieu\obj\Debug\QuanLyChiTieu.UserControlChi.resources
+C:\Users\ACER\Desktop\SoChiTieu\quanlychitieu\obj\Debug\QuanLyChiTieu.UserControlDays.resources
+C:\Users\ACER\Desktop\SoChiTieu\quanlychitieu\obj\Debug\QuanLyChiTieu.UserControlThu.resources
+C:\Users\ACER\Desktop\SoChiTieu\quanlychitieu\obj\Debug\QuanLyChiTieu.csproj.GenerateResource.cache
+C:\Users\ACER\Desktop\SoChiTieu\quanlychitieu\obj\Debug\QuanLyChiTieu.csproj.CoreCompileInputs.cache
+C:\Users\ACER\Desktop\SoChiTieu\quanlychitieu\obj\Debug\QuanLyChiTieu.exe
+C:\Users\ACER\Desktop\SoChiTieu\quanlychitieu\obj\Debug\QuanLyChiTieu.pdb
+C:\Users\SoChiTieu\quanlychitieu\bin\Debug\QuanLyChiTieu.exe.config
+C:\Users\SoChiTieu\quanlychitieu\bin\Debug\QuanLyChiTieu.exe
+C:\Users\SoChiTieu\quanlychitieu\bin\Debug\QuanLyChiTieu.pdb
+C:\Users\SoChiTieu\quanlychitieu\obj\Debug\QuanLyChiTieu.csproj.AssemblyReference.cache
+C:\Users\SoChiTieu\quanlychitieu\obj\Debug\QuanLyChiTieu.csproj.SuggestedBindingRedirects.cache
+C:\Users\SoChiTieu\quanlychitieu\obj\Debug\QuanLyChiTieu.FrmNhap.resources
+C:\Users\SoChiTieu\quanlychitieu\obj\Debug\QuanLyChiTieu.FrmBaoCao.resources
+C:\Users\SoChiTieu\quanlychitieu\obj\Debug\QuanLyChiTieu.FrmLich.resources
+C:\Users\SoChiTieu\quanlychitieu\obj\Debug\QuanLyChiTieu.FrmLogin.resources
+C:\Users\SoChiTieu\quanlychitieu\obj\Debug\QuanLyChiTieu.FrmMain.resources
+C:\Users\SoChiTieu\quanlychitieu\obj\Debug\QuanLyChiTieu.Properties.Resources.resources
+C:\Users\SoChiTieu\quanlychitieu\obj\Debug\QuanLyChiTieu.UserControlBlank.resources
+C:\Users\SoChiTieu\quanlychitieu\obj\Debug\QuanLyChiTieu.UserControlChi.resources
+C:\Users\SoChiTieu\quanlychitieu\obj\Debug\QuanLyChiTieu.UserControlDays.resources
+C:\Users\SoChiTieu\quanlychitieu\obj\Debug\QuanLyChiTieu.UserControlThu.resources
+C:\Users\SoChiTieu\quanlychitieu\obj\Debug\QuanLyChiTieu.csproj.GenerateResource.cache
+C:\Users\SoChiTieu\quanlychitieu\obj\Debug\QuanLyChiTieu.csproj.CoreCompileInputs.cache
+C:\Users\SoChiTieu\quanlychitieu\obj\Debug\QuanLyChiTieu.exe
+C:\Users\SoChiTieu\quanlychitieu\obj\Debug\QuanLyChiTieu.pdb
